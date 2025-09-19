@@ -1,0 +1,282 @@
+[
+{
+    "model": "links.link",
+    "pk": 1,
+    "fields": {
+        "title": "Samsung",
+        "email": "samsung@gmail.com",
+        "owner": 2,
+        "country": "South Korea",
+        "city": "Suwon",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphone",
+        "product_model": "Galaxy S25 Ultra",
+        "realize_date": "2025-02-07",
+        "provider": null,
+        "network_level": 0,
+        "debt": "0.00",
+        "created_at": "2025-09-19T07:33:10.900Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 2,
+    "fields": {
+        "title": "Huawei",
+        "email": "huawei@gmail.com",
+        "owner": 2,
+        "country": "China",
+        "city": "Shenzhen",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphone",
+        "product_model": "Huawei Mate XT",
+        "realize_date": "2025-03-07",
+        "provider": null,
+        "network_level": 0,
+        "debt": null,
+        "created_at": "2025-09-19T07:36:23.121Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 3,
+    "fields": {
+        "title": "Apple",
+        "email": "apple@icloud.com",
+        "owner": 2,
+        "country": "USA",
+        "city": "Cupertino",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphone",
+        "product_model": "Iphone 17",
+        "realize_date": "2025-09-09",
+        "provider": null,
+        "network_level": 0,
+        "debt": null,
+        "created_at": "2025-09-19T07:40:22.952Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 4,
+    "fields": {
+        "title": "Asus",
+        "email": "asus@gmail.com",
+        "owner": 2,
+        "country": "Taiwan",
+        "city": "Taipei",
+        "street": null,
+        "house_number": null,
+        "product_name": "Computer Electronics",
+        "product_model": "Asus Rog Phone 9",
+        "realize_date": "2024-11-14",
+        "provider": null,
+        "network_level": 0,
+        "debt": null,
+        "created_at": "2025-09-19T07:44:25.067Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 5,
+    "fields": {
+        "title": "Acer",
+        "email": "acer@gmail.com",
+        "owner": 2,
+        "country": "Taiwan",
+        "city": "Taipei",
+        "street": null,
+        "house_number": null,
+        "product_name": "Computer Electronics",
+        "product_model": "Acer Nitro V ANV15-51-55MP",
+        "realize_date": "2023-10-20",
+        "provider": null,
+        "network_level": 0,
+        "debt": null,
+        "created_at": "2025-09-19T07:52:58.360Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 6,
+    "fields": {
+        "title": "DNS Shop",
+        "email": "dns@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Kazan",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Iphone 17",
+        "realize_date": null,
+        "provider": 3,
+        "network_level": 1,
+        "debt": "10000.00",
+        "created_at": "2025-09-19T12:30:53.806Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 7,
+    "fields": {
+        "title": "Eldorado",
+        "email": "eldorado@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Moskow",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Galaxy S25 Ultra",
+        "realize_date": null,
+        "provider": 1,
+        "network_level": 1,
+        "debt": "24999.99",
+        "created_at": "2025-09-19T12:32:31.073Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 8,
+    "fields": {
+        "title": "Dixis",
+        "email": "dixis@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Naberezhnye Chelny",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Huawei Mate XT",
+        "realize_date": "2025-03-07",
+        "provider": 2,
+        "network_level": 1,
+        "debt": "35990.00",
+        "created_at": "2025-09-19T13:33:45.951Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 9,
+    "fields": {
+        "title": "МВидео",
+        "email": "mvideo@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Kazan",
+        "street": null,
+        "house_number": null,
+        "product_name": "Electronics",
+        "product_model": "Ноутбук Acer Nitro V ANV15-51-55MP",
+        "realize_date": null,
+        "provider": 5,
+        "network_level": 1,
+        "debt": "149090.85",
+        "created_at": "2025-09-19T13:35:50.641Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 10,
+    "fields": {
+        "title": "IStore",
+        "email": "istore@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Naberezhnye Chelny",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphone",
+        "product_model": "Iphone 16 Pro Max",
+        "realize_date": null,
+        "provider": 3,
+        "network_level": 1,
+        "debt": "189000.50",
+        "created_at": "2025-09-19T13:39:39.052Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 11,
+    "fields": {
+        "title": "Citilink",
+        "email": "citilink@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Naberezhnye Chelny",
+        "street": null,
+        "house_number": null,
+        "product_name": "Electronics",
+        "product_model": "ASUS ROG Strix G16 G614PR-RV027",
+        "realize_date": null,
+        "provider": 4,
+        "network_level": 1,
+        "debt": "199890.50",
+        "created_at": "2025-09-19T13:49:43.973Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 12,
+    "fields": {
+        "title": "ИП Иванов",
+        "email": "ivanov@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Naberezhnye Chelny",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Iphone 17",
+        "realize_date": null,
+        "provider": 6,
+        "network_level": 2,
+        "debt": "117890.50",
+        "created_at": "2025-09-19T13:51:19.786Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 13,
+    "fields": {
+        "title": "ИП Смирнов",
+        "email": "smirnov@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Kazan",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Galaxy S25 Ultra",
+        "realize_date": null,
+        "provider": 7,
+        "network_level": 2,
+        "debt": "237890.50",
+        "created_at": "2025-09-19T13:52:53.779Z"
+    }
+},
+{
+    "model": "links.link",
+    "pk": 14,
+    "fields": {
+        "title": "ИП Соболев",
+        "email": "sobolev@mail.ru",
+        "owner": 2,
+        "country": "Russia",
+        "city": "Kazan",
+        "street": null,
+        "house_number": null,
+        "product_name": "Smartphones",
+        "product_model": "Huawei Mate XT",
+        "realize_date": null,
+        "provider": 8,
+        "network_level": 2,
+        "debt": "341895.60",
+        "created_at": "2025-09-19T13:54:16.877Z"
+    }
+}
+]

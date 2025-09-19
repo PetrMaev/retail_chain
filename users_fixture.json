@@ -1,0 +1,22 @@
+[
+{
+    "model": "users.customuser",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$1000000$fmL2lpXhjDUf0FJbcBRPi6$0UA5szePKUvQVsDpZME/8FP7ImRFqtgE4EpjvFmYJh8=",
+        "last_login": null,
+        "is_superuser": false,
+        "first_name": "",
+        "last_name": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2025-09-19T07:23:46.850Z",
+        "email": "boss@bk.ru",
+        "avatar": "",
+        "phone_number": null,
+        "country": null,
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
